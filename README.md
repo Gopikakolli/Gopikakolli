@@ -26,11 +26,18 @@
 - ServiceNow
 - Agile / Scrum
 
+ ### Methodology
+ - Agile / Scrum
+ - Sprint Planning
+ - Daily Stand-ups
+ - Retrospective Participation
+
 ---
 
 ## 🏢 Professional Experience
 Worked at Wipro in Banking & Payments (Mastercard Domain).
 Handled end-to-end transaction validation and regression cycles.
+Reduced regression execution effort by implementing reusable Tosca components.
 
 ---
 
