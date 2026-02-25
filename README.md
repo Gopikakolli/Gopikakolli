@@ -11,7 +11,7 @@
 - Regression Testing
 - Smoke Testing
 - Test Case Design
-- Defect Life Cycle
+- Defect Life Cycle Management
 
 ### Automation
 - Tricentis Tosca (Modules, TCD, Buffers, DEX)
