@@ -1,23 +1,46 @@
-Hi, I’m Gopika Kolli
+👋 Hi, I'm Gopika Kolli
 
-QA Automation Engineer | 3 Years Experience | BFSI Domain
+## 💼 QA Automation Engineer | 3 Years Experience | BFSI Domain
 
-🔹 Skills
-Manual Testing (Functional, Regression, Smoke)
-Automation: Tricentis Tosca
-API Testing: Postman
-Defect Tracking: JIRA
-Agile / Scrum
+---
 
-🔹 Experience
-Worked at Wipro in Banking & Payments (Mastercard domain).
+## 🛠 Technical Skills
 
-🔹 Projects
-Tosca Automation Framework (Banking workflows)
-API Validation Suite (Postman collections)
+### Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Test Case Design
+- Defect Life Cycle
 
-📫 Contact Me
-Email: gopika2kkolli@gmail.com
-LinkedIn: www.linkedin.com/in/gopika-kolli-33a843202
+### Automation
+- Tricentis Tosca (Modules, TCD, Buffers, DEX)
+- Reusable Test Case Design
 
+### API Testing
+- Postman
+- Tosca API Scan
+
+### Tools
+- JIRA
+- ServiceNow
+- Agile / Scrum
+
+---
+
+## 🏢 Professional Experience
+Worked at Wipro in Banking & Payments (Mastercard Domain).
+Handled end-to-end transaction validation and regression cycles.
+
+---
+
+## 📂 Projects
+- Tosca Automation Framework – Banking workflows
+- API Validation Suite – Postman Collections
+
+---
+
+## 📫 Connect With Me
+📧 gopika2kkolli@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/gopika-kolli-33a843202
 
